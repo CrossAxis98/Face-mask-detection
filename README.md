@@ -7,6 +7,7 @@ Face mask detection program made in python with Keras. Model was trained with 3 
 * Keras
 * OpenCV
 * Face recognition
+* Google Colaboratory (recommended)
 
 ## Soft in action
 ![Face-mask-detection](Presentation.gif)
